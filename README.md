@@ -13,7 +13,7 @@
 [Mock audiophile-e-commerce website](https://audiophile-e-commerce-dh.netlify.app/)
 
 ## When I'm not coding:
-I enjoy playing chess, bouldering, and exercising if I'm not coding or learning about it.
+Chess, bouldering, and exercising if I'm not coding or learning about it.
 
 ### Links:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://danahong.com/)
